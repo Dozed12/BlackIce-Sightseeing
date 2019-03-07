@@ -1,6 +1,10 @@
 To search just type: NAME_OF_SITE 1930s
 If nothing search for 1940s or 1950s
 
+NUMBER - MAP_NAME
+or
+NUMBER - FILE_NAME (MAP_NAME)
+
 5181 - Weihai
 6422 - Admiralty Islands
 4986 - Akita
@@ -31,3 +35,33 @@ If nothing search for 1940s or 1950s
 9109 - Feyzabad
 6622 - Fiji
 5497 - Fakuoka(Fukuoka)
+9365 - ALBasrah
+9429 - BandareAbbas
+6348 - BandarSeriBegawan
+9908 - Berbera
+10262 - Broome
+9398 - Bushehr
+4535 - CasteloBranco
+5379 - Chania
+4472 - Covilha
+10636 - Diego Garcia
+7797 - Djokjakarta
+10731 - Dodecanese
+4624 - Elazig
+4751 - Evora
+10328 - Exmouth
+4991 - Faro
+5809 - Kaohsiung(Gaoxiong)
+5566 - Gaza
+7910 - Geraldton
+8046 - Gisborne
+6120 - Panaji(Goa)
+5945 - Haiphong
+4896 - Hamhung
+5599 - Hangzhou
+5934 - Hilo
+10476 - Hobart
+10449 - Hopetown(Hopetoun)
+4837 - Huludao
+5002 - Eivissa(Ibiza)
+9582 - Jabalpur

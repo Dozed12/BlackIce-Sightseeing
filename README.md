@@ -1,7 +1,11 @@
 # BlackIce Sightseeing
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Dozed12/BlackIce-Sightseeing/master/archive/madurai.jpg?token=AKF9E_RJzecSb5nebPMiJ2WHqR5mtPypks5cinAqwA%3D%3D" alt="alt text" width="500" height="300">
+<img src="https://raw.githubusercontent.com/Dozed12/BlackIce-Sightseeing/master/archive/madurai.jpg?token=AKF9E_RJzecSb5nebPMiJ2WHqR5mtPypks5cinAqwA%3D%3D" alt="alt text" width="500" height="300">  
+</p>
+
+<p align="center">
+Madurai
 </p>
 
 

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Madurai
+Meenakshi Amman in Madurai
 </p>
 
 

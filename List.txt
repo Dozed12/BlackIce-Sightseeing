@@ -65,3 +65,24 @@ NUMBER - FILE_NAME (MAP_NAME)
 4837 - Huludao
 5002 - Eivissa(Ibiza)
 9582 - Jabalpur
+10666 - Jarvis Island
+6370 - Kampar
+5218 - Kanazawa
+8595 - Kemerovo
+5285 - Kiryu
+6064 - Kolhapur
+8456 - Komsomolsk
+6341 - KotaBharu
+6355 - KualaBelait
+6379 - Kuantan
+10014 - Kuching
+10658 - Kwajalein
+6509 - Lae
+5139 - Lefkosia
+6181 - Legaspi
+5172 - Lemesos
+6624 - Levuka
+6088 - Lingayen
+6610 - Luganville
+7858 - Mackay
+6256 - Madurai

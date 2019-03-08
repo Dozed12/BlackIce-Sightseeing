@@ -40,7 +40,7 @@ This is a submod for Hoi3 BlackIce featuring more province photos for provinces 
 - Sardinia & Corsica (complete)
 - Morocco to Egypt (mostly complete)
 - South Atlantic Isles (mostly complete)
-- Crete/Cyprus/Dodecanese (complete)
+- Crete/Cyprus/Dodecanese/Rodi (complete)
 - Near India islands like Maldivas (complete)
 
 #### Folders:

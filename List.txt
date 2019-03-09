@@ -122,3 +122,18 @@ NUMBER - FILE_NAME (MAP_NAME)
 6875 - OstrovParamusir
 7758 - Padang
 6454 - Pagatan
+8489 - Petropavlovsk
+6175 - PhetBuri
+10653 - Ponape
+6183 - Pondicherry
+6420 - Pontianak
+10302 - PortHedland
+7445 - BadiyatashSham(Qasr el Burqu)
+6108 - QuangNgai
+5561 - Rashid
+9257 - Rawalpindi
+5138 - Rodos(Rodi)
+6617 - Samoa
+3814 - Santander
+7238 - Sapporo
+5520 - Sasebo

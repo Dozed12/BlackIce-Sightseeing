@@ -86,3 +86,24 @@ NUMBER - FILE_NAME (MAP_NAME)
 6610 - Luganville
 7858 - Mackay
 6256 - Madurai
+5343 - Maizuru
+6512 - Makin
+5920 - Honakaa(Malaita)
+7799 - Malang
+6398 - Manado
+6182 - Mangalore
+7744 - Mankowari
+10643 - Marcus Island
+7897 - Maryborough
+5456 - Matsuyama
+10635 - Mauritius
+9375 - Meerut
+6573 - Alotau(Milne Bay)
+6362 - Miri
+5388 - Mokpo
+6095 - Moulmein
+9343 - Multan
+4798 - Mutsu
+6245 - MyTho
+5283 - Nagano
+5748 - Nago

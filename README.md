@@ -45,7 +45,7 @@ This is a submod for Hoi3 BlackIce featuring more province photos for provinces 
 
 #### Folders:
 
-- gfx/interace/prov_pictures: prepared photos
-- archive: list of all photos
-- raw: list of photos to be added
-- new: list of photos to be added to archive and raw
+- gfx/interace/prov_pictures: photos ready to be used
+- archive: all photos
+- raw: current batch of photos to be added
+- new: next batch of photos

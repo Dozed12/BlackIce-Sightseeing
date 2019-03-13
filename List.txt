@@ -137,3 +137,58 @@ NUMBER - FILE_NAME (MAP_NAME)
 3814 - Santander
 7238 - Sapporo
 5520 - Sasebo
+6513 - Serang
+5823 - Shantou
+7550 - Silchar
+4623 - Sivas
+9080 - Stalinabad
+5573 - Huzhou(Suzhou)
+5249 - Taegu
+6620 - Tahiti
+8050 - Tamboritha
+5019 - Tangshan
+6380 - Tarakan
+10638 - Tarawa
+9025 - Tashkent
+8018 - Tauranga
+9961 - TheMaldives
+4831 - Qusayban(Tikrit)
+10641 - Tinian
+6531 - Tjilatjap
+5438 - Tokuyama
+6518 - Torokina
+5310 - Tottori
+7009 - Toyohara
+6283 - Trincomalee
+10651 - Truk
+10646 - Ulithi
+5427 - Wakayama
+10664 - Wake Island
+6439 - Wewak
+10645 - Yap
+5919 - Zhanjiang
+4486 - Ajaccio
+5165 - Annaba
+10630 - Ascunsion(Ascension)
+10631 - Cap Verde(Cape Verde)
+5289 - Ceuta
+5465 - Darnah(Derna)
+9986 - Douala
+9482 - Laayoune(El Aaiun)
+10479 - Falkland Islands
+5352 - Fez
+5397 - Gabes
+9563 - Katha
+9920 - Lagos
+10730 - Fuerteventura(Las Palmas)
+5458 - Marrakech
+5559 - MarsaMatruh
+5323 - Melilla
+5483 - Misratah(Misurata)
+4658 - Olbia
+9977 - PortHarcourt
+10348 - SantaIsabel
+10632 - Sao Tome
+5232 - Sousse
+6374 - TelukAnson
+10729 - Tenerife

@@ -35,13 +35,19 @@ This is a submod for Hoi3 BlackIce featuring more province photos for provinces 
 - Middle East (mostly complete)
 - Egypt to Ethiopia (mostly complete)
 - Australia (mostly complete)
-- Portugal (complete except Madeira/Azores)
+- Portugal (complete)
 - Spain (mostly complete, maybe some colonies missing)
 - Sardinia & Corsica (complete)
 - Morocco to Egypt (mostly complete)
 - South Atlantic Isles (mostly complete)
 - Crete/Cyprus/Dodecanese/Rodi (complete)
 - Near India islands like Maldivas (complete)
+- Madagascar (mostly complete)
+- Mozambique (complete)
+- Angola (complete)
+- France (mostly complete)
+- Greece (mostly complete)
+- Bulgaria (mostly complete)
 
 #### Folders:
 
